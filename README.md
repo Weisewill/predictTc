@@ -7,6 +7,10 @@ This is a machine learning pipeline for creating models to predict the magnetic 
 
 ### Files:
 #### Create_Table.ipynb	
+Create tables from material's raw data.
 #### Features_calculation.ipynb	
+Generate and engineer featuers.
 #### Tc_Prediction.ipynb
+Deploy machine learning models for predicting the Curie temperature of materials.
 #### Clustering t-SNE and K means.ipynb	
+Use t-SNE and K-means algorithms to find groups within the dataset.
